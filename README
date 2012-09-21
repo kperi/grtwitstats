@@ -1,12 +1,10 @@
-οδηγίες χρήσεως
-=======================================================
+#οδηγίες χρήσεως
 
 
+##κώδικας python για να πάρουμε τους followers ενός twitter account
 
 
-κώδικας python για να πάρουμε τους followers ενός twitter account
-
-
+`
 def getFollowers():
 	screen_name = sys.argv[1]
 	max_pages = 4
@@ -32,3 +30,4 @@ def getFollowers():
 	for item in followers_ids:
 	  f.write("%s\n" % item)
 	f.close()
+`
