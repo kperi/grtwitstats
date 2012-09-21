@@ -1,3 +1,7 @@
+import requests
+import json
+import sys
+
 def getFollowers():
 	screen_name = sys.argv[1]
 	max_pages = 4 #number of pages (eg loops), change this to fit the account
