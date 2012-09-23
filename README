@@ -1,8 +1,8 @@
-ο κώδικας python για το πως μπορούμε να  πάρουμε τους followers ενός twitter account  ειναι [εδώ](https://github.com/kperi/grtwitstats/blob/master/getFollowers.py "εδώ")
+ο κώδικας python για το πως μπορούμε να  πάρουμε τους followers ενός twitter account  ειναι https://github.com/kperi/grtwitstats/blob/master/getFollowers.py 
 
-ο κώδικας για να πάρουμε πληροφορίες για ενα twitter account ειναι [εδώ](https://github.com/kperi/grtwitstats/blob/master/getAccountStats.py "εδώ")
+ο κώδικας για να πάρουμε πληροφορίες για ενα twitter account ειναι εδω: https://github.com/kperi/grtwitstats/blob/master/getAccountStats.py)
 
-και εδώ [εδώ](https://github.com/kperi/grtwitstats/blob/master/rScripts.R "εδώ") θα βρειτε 
+και εδώ https://github.com/kperi/grtwitstats/blob/master/rScripts.R  θα βρειτε 
 κάποια από τα ολοκληρωμένα R scripts που χρησιμοποιηθηκαν για τα visualizations. 
 
 
@@ -16,10 +16,9 @@
 
 
 
-[R](http://cran.r-project.org/ "R")
+[R] (http://cran.r-project.org/)
 
-[python](http://python.org/ "python")  
-
+[python]  (http://python.org/)  
 
 
 
